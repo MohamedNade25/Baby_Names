@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "baby-names-464003",
+  "private_key_id": "a2a1dc8861c11509107cf4a4c44572b38419e93b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCT4BxfjMwYRNQ2\n2TovFj64hEtOGORtjY3Kii8V3HDPkB6NvSVLR9YkVy8f/ciugaffP3KlbcO65gM2\nt0pvtXK8vcRstyknpQtyl2I9keaSv3fqo0JQiMGBqh/vDsDc3q8qwNOEFJ5WG5LK\nCU0uAwdGb5qC2Kyk6te4wRKU5UPMddCzFge1x/KU9iFmMA/dS3Ka46Loa84Qr3NL\nSr+p3FDeiCfUNtAtVk+gNQU//escUi3GB85booFncYyvJ/QwAnIbzgLnlyfrAQ2p\nO5FKtZAovK4GAVu8NFfT2RLVTuWby+U/cvzyEiomlrC6aLtEJ4sSrN9WVwEk+q5H\njvIao2nrAgMBAAECggEADZvHxgFP56yEjRb49EwLR0bMI//wHFGKaskZuTIkDZij\n6dkDcsXweUAEEwvIvp/UTPFqrGUJaLdHNMSxwc2vJUXKKv5rd/2ygSquUfU4hL5r\nG47yXjVKUuj5mbHqt3N6J6iULpOz2JUesUohg1T9rpKRuRiV7B1n7yrmz14Omw+u\ntkDRuUprVuQRypsm8voEy+XvK4M/ZPk9SINFQ95f7UAivZUIWiMf9JnINIsXipKr\nCC3qXfqASe9se71QlGAtPRwOLu5D7ZRQmQ/WrOU0MM7g+dmSkALlu1bPd+I3uhnv\nzDzfTzZtp+Wsi4+6pP7K9T54DuJfHi9rCyBk6NE7LQKBgQDNfnbeI9RpUS5pz9je\nUvmXgUTqzr4LsrE87FvntEkQP+62tBlu629cWFTpK2RmLV5fmwWR9IqawunoPrU2\nnSo273MMkR6Z/4jX3Qa4QntHwy1fdbkaQ+M3kljXkpqn0OeQvv8ZHEJ0LB/0xODA\nHrnKm+ytPvSqYJ7Fl3J0IM78XwKBgQC4OFPOpx5qW5xHpjQm36/9ag2D0rDlqnmx\nCzLS0T/eVk+V/q8SeFjxU2O1SlEd3Ck5+w+Y8mvlzbUwx9bdViSPBUc4LCIOF7dr\nTJvclnLfwmErg7ry9IQhALZLfOzd8U5LT9SYMxdGDFHUZ7piW9VO7tO45HrhOyvi\nsa1orh799QKBgFcIgfXRvQwiCwNbuaFoCTgm0vaUO5+evjxsavx2uh88xLDzFHaL\nFq5I5yWecDZqbrcVZEWOCgpEFWd876lC5XdA8TxYVlqpBN9QSKFP3wDk5Fmy9YPv\nTtPhkukyuXfsHbeLfWW4N1kWuy4jGIGmQdBTO+mgaWWj6HsNircukhwHAoGADlPL\nKNJUij8Pu37QpYlWHaZm4K69NU954WwWitDdX8Rksiy5nv0fJb2vjoT2JBVgW3MM\nNn/8JkZGZkHUkyhE9Z6aeGLuTxxHFqBBqvlEe+SZPBIlswmTUSHGC77uiSBgT3ko\n9qFamQcSQivDEi1EPLxUWRfj+qpoclwROYf5PxUCgYBja2AMZQpLKWEOJdnzsdkF\nDLY0vvbwcZHfoVGPNKL7WntwpH13FP0FEwPEOKnx0NYgCvJzIMrGA74bByOfdA/v\nIhhHU9299dkPGGocRzTtLhJyCxMq9t6nX7pywnkhqbBlqC9HnLGF6l/PF4+60YCg\nJnG9tltVZnAFylz+2p3Aqg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "baby-names@baby-names-464003.iam.gserviceaccount.com",
+  "client_id": "117689851350461437419",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/baby-names%40baby-names-464003.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
