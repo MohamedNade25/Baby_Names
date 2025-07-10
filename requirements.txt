@@ -1,5 +1,5 @@
-﻿numpy
-pandas
-googleapiclient
-google
-streamlit
+﻿numpy==
+pandas==
+googleapiclient==
+google==
+streamlit==1.45.1
